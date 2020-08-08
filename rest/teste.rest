@@ -1,0 +1,23 @@
+POST http://localhost:3333/USDT
+
+{
+  "asset":"LINK", 
+  "buyPrice1": 0.002541,
+  "buyPrice2": 0.002603,
+  "target1": 0.002752,
+  "target2": 0.002823,
+  "target3": 0.002904,
+  "stop": "0.002495"
+}
+
+POST http://localhost:3333/BTC
+
+{
+  "asset":"LINK", 
+  "buyPrice1": 0.002541,
+  "buyPrice2": 0.002603,
+  "target1": 0.002752,
+  "target2": 0.002823,
+  "target3": 0.002904,
+  "stop": "0.002495"
+}
